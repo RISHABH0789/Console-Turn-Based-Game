@@ -1,2 +1,8 @@
-# Console-Turn-Based-Game
-A simple turn base game for intermediate level, easy to understand having simple variable names
+A simple python turn base game, which runs on ***console***.
+Easy to use.
+<br><br>
+**UPDATE COMING SOON**<br><br><br>
+***Update Features***:<br>
+1. Random decision taken by Enemy AI
+2. Increasing Difficulty
+3. New Move for Player
