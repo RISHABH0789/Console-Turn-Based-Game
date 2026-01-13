@@ -1,5 +1,13 @@
 A simple python turn base game, which runs on ***console***.
-Easy to use.
+<br><br><br>
+Made Using:
+1. Object
+2. While Loop
+3. Boolean
+4. if-else-if condition
+5. Functions
+6. Random Module
+7. Basic Arithmetic Operation
 <br><br>
 **UPDATE COMING SOON**<br><br><br>
 ***Update Features***:<br>
